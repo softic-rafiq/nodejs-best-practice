@@ -1,0 +1,178 @@
+{
+  "workouts": [
+    {
+      "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+      "name": "Tommy V",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "21 thrusters",
+        "12 rope climbs, 15 ft",
+        "15 thrusters",
+        "9 rope climbs, 15 ft",
+        "9 thrusters",
+        "6 rope climbs, 15 ft"
+      ],
+      "createdAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "4/20/2022, 2:21:56 PM",
+      "trainerTips": [
+        "Split the 21 thrusters as needed",
+        "Try to do the 9 and 6 thrusters unbroken",
+        "RX Weights: 115lb/75lb"
+      ]
+    },
+    {
+      "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "name": "Dead Push-Ups",
+      "mode": "AMRAP 10",
+      "equipment": [
+        "barbell"
+      ],
+      "exercises": [
+        "15 deadlifts",
+        "15 hand-release push-ups"
+      ],
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "trainerTips": [
+        "Deadlifts are meant to be light and fast",
+        "Try to aim for unbroken sets",
+        "RX Weights: 135lb/95lb"
+      ]
+    },
+    {
+      "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+      "name": "Heavy DT",
+      "mode": "5 Rounds For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "12 deadlifts",
+        "9 hang power cleans",
+        "6 push jerks"
+      ],
+      "createdAt": "11/20/2021, 5:39:07 PM",
+      "updatedAt": "11/20/2021, 5:39:07 PM",
+      "trainerTips": [
+        "Aim for unbroken push jerks",
+        "The first three rounds might feel terrible, but stick to it",
+        "RX Weights: 205lb/145lb"
+      ]
+    },
+    {
+      "name": "Core Buster",
+      "mode": "AMRAP 20",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "00cba639-3baa-4dba-b698-f9457913d8c9",
+      "createdAt": "8/2/2023, 9:59:55 AM",
+      "updatedAt": "8/2/2023, 9:59:55 AM"
+    },
+    {
+      "name": "Core Buster1",
+      "mode": "AMRAP 201",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "67429b4d-d265-4c44-858f-c68d0bc7ecbe",
+      "createdAt": "8/2/2023, 10:02:46 AM",
+      "updatedAt": "8/2/2023, 10:02:46 AM"
+    },
+    {
+      "name": "Core Buster2",
+      "mode": "AMRAP 202",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "fa27a498-4f35-4e9a-a6ae-8dff69104e4c",
+      "createdAt": "8/2/2023, 10:04:14 AM",
+      "updatedAt": "8/2/2023, 10:04:14 AM"
+    },
+    {
+      "name": "Core Buster3",
+      "mode": "AMRAP 203",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "b00a1bf0-44d4-42a0-803e-5c3dec6f0d51",
+      "createdAt": "8/2/2023, 10:05:05 AM",
+      "updatedAt": "8/2/2023, 10:05:05 AM"
+    },
+    {
+      "name": "Core Buster4",
+      "mode": "AMRAP 204",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "40d60a82-a2ce-4c05-a580-77fc484f45e0",
+      "createdAt": "8/2/2023, 10:05:20 AM",
+      "updatedAt": "8/2/2023, 10:05:20 AM"
+    }
+  ]
+}
