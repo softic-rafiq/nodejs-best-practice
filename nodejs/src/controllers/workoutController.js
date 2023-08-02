@@ -36,6 +36,23 @@ const createNewWorkout = (req, res) => {
 };
 
 const updateOneWorkout = (req, res) => {
+  const { workoutId } = req.params;
+  const { name, mode, equipment, exercises, trainerTips } = req.body;
+  if (!workoutId) {
+    return;
+  }
+
+  const updateWorkout = {
+    name,
+    mode,
+    equipment,
+    exercises,
+    trainerTips,
+  };
+  const updatedWorkout = workoutService.updateOneWorkout(
+    workoutId,
+    updateWorkout
+  );
   res.send("Update an existing workout");
 };
 
